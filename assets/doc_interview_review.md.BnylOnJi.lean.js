@@ -1,0 +1,1 @@
+import{ax as e,c as t,o as r}from"./chunks/framework.BUZ2O90O.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"doc/interview/review.md","filePath":"doc/interview/review.md"}'),a={name:"doc/interview/review.md"};function i(o,c,n,s,d,p){return r(),t("div")}const v=e(a,[["render",i]]);export{m as __pageData,v as default};
